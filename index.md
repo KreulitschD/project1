@@ -107,6 +107,21 @@ width="75%">
 </div>
 <!-- ------------------------------------ -->
 
+
+
+<div class="row">
+          <div class="col-md-6">
+          <h2>Overview of CityGML energy ADE prokects and research</h2>
+<p>
+The map below shows ongoing projects and research regarding the topic "CityGML Energy ADE". To add your CityGML energy ADE project or research to this map, use this <a href="https://docs.google.com/spreadsheets/d/1fjc1Ulaj_bzBwiTj9FVlNvJlIQbfkq0K8IcAfm45o5U/edit?usp=sharing">link </a> and add it to the spreadsheet.  
+</p>
+</div>
+<div class="col-md-6" >
+  <iframe src="https://www.google.com/maps/d/embed?mid=1s27TcyHKVtcJ7oxxpgg5IQVkSEfSAetN" width="640" height="480"></iframe>
+</div>
+</div>
+<!-- ------------------------------------ -->
+
 <div class="row">
 <div class="col-md-6">
 <h2>Task 3: Application and Dissemination</h2>
