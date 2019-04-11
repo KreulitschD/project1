@@ -99,19 +99,12 @@ with the developments of BIM/GIS-based tools that are ongoing outside
 of this project, and provide a path for a next-generation modeling
 that also specifies control sequences.
 </p>
-<div class="col-md-6">
+</div>
+<div class="col-md-6" >
   <img src="{{ site.url }}/assets/img/gis_model.png" alt="Network temperatures"
 width="75%">
 </div>
-  
-<div>
-The map below shows ongoing projects and research regarding the topic "CityGML Energy ADE". To add your CityGML energy ADE project or research to this map, use this <a href="https://docs.google.com/spreadsheets/d/1fjc1Ulaj_bzBwiTj9FVlNvJlIQbfkq0K8IcAfm45o5U/edit?usp=sharing">link </a> and add it to the spreadsheet.
-<div>
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1s27TcyHKVtcJ7oxxpgg5IQVkSEfSAetN" width="640" height="480"></iframe>
-
-<p>
-Test..
+</div>
 <!-- ------------------------------------ -->
 
 <div class="row">
