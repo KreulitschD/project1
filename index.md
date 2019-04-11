@@ -13,7 +13,7 @@ permalink: index.html
   <img src="{{ site.url }}/assets/img/overview.jpg" alt="Overview" width="600px">
 </div>
 
-IBPSA Project 1 will create open-source (TEST)software
+IBPSA Project 1 will create open-source software
 that builds the basis of next generation computing tools
 for the design and
 operation of building and district energy and control systems.
